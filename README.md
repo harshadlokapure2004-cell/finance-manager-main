@@ -9,7 +9,7 @@
 
 A comprehensive personal finance management web application built with Flask and MongoDB. Track your income and expenses, analyze your spending habits with detailed reports, set budgets, and take full control of your financial life.
 
-[**Watch the Demo**](#-live-demo--screenshots) · [**Report a Bug**](https://github.com/WhoIsJayD/Finance-Manager/issues) · [**Request a Feature**](https://github.com/WhoIsJayD/Finance-Manager/issues)
+[**Watch the Demo**](#-live-demo--screenshots) · [**Report a Bug**](https://github.com/harshadlokapure2004-cell/Finance-Manager/issues) · [**Request a Feature**](https://github.com/harshadlokapure2004-cell/Finance-Manager/issues)
 
 
 ### 🌟 Key Features
@@ -65,7 +65,7 @@ The fastest way to get the Finance Manager running is with Docker.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/WhoIsJayD/Finance-Manager.git](https://github.com/WhoIsJayD/Finance-Manager.git)
+    git clone [https://github.com/harshadlokapure2004-cell/Finance-Manager.git](https://github.com/harshadlokapure2004-cell/Finance-Manager.git)
     cd Finance-Manager
     ```
 
@@ -102,7 +102,7 @@ If you prefer a manual setup:
 
 1.  **Clone the repository and create a virtual environment:**
     ```sh
-    git clone [https://github.com/WhoIsJayD/Finance-Manager.git](https://github.com/WhoIsJayD/Finance-Manager.git)
+    git clone [https://github.com/harshadlokapure2004-cell/Finance-Manager.git](https://github.com/harshadlokapure2004-cell/Finance-Manager.git)
     cd Finance-Manager
     python3 -m venv venv
     source venv/bin/activate  # On Linux/macOS
